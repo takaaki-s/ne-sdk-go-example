@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+    goapp:
+        build:
+            context: ./
+            dockerfile: ./docker/go/Dockerfile
+        ports:
+            - "8080:8080"
+        environment:
+            - CLIENT_ID
+            - CLIENT_SECRET
