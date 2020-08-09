@@ -1,6 +1,10 @@
 # NextEngine Go SDK Example
 
-## Setup
+NextEngine SDK for Go
+
+https://github.com/takaaki-s/ne-sdk-go
+
+## GettingStarted
 
 Create your nextengine application to get client_id and client_secret
 
