@@ -52,6 +52,8 @@ github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UV
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/takaaki-s/ne-sdk-go v0.0.1 h1:FRmwVUoqq978vRALGhmjZbszcrMV8aQAMV/q0rafB6k=
 github.com/takaaki-s/ne-sdk-go v0.0.1/go.mod h1:w9tSpXGlpVOKpTuH81e8icTy8P/Nzm+KrKOUWiI+6Ms=
+github.com/takaaki-s/ne-sdk-go v0.0.2 h1:h0+eRNvWi0PNT7WXSONP4OtrxzG0m979vVA2jrZRMO0=
+github.com/takaaki-s/ne-sdk-go v0.0.2/go.mod h1:w9tSpXGlpVOKpTuH81e8icTy8P/Nzm+KrKOUWiI+6Ms=
 github.com/ugorji/go v1.1.7 h1:/68gy2h+1mWMrwZFeD1kQialdSzAb432dtpeJ42ovdo=
 github.com/ugorji/go v1.1.7/go.mod h1:kZn38zHttfInRq0xu/PH0az30d+z6vm202qpg1oXVMw=
 github.com/ugorji/go/codec v1.1.7 h1:2SvQaVZ1ouYrrKKwoSk2pzd4A9evlKJb9oTL+OaLUSs=

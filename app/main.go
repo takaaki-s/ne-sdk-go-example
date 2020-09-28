@@ -36,7 +36,7 @@ func (t *tokenRepository) Token(ctx context.Context) (nextengine.Token, error) {
 	return token, nil
 }
 
-func (t *tokenRepository) StoreToken(ctx context.Context, token nextengine.Token) error {
+func (t *tokenRepository) Save(ctx context.Context, token nextengine.Token) error {
 	if json, err := json.Marshal(token); err == nil {
 		sess := sessions.Default(t.c)
 		sess.Set("token", json)
